@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d2f563d83a64543498e9467ad213820a
+timeCreated: 1441325894
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Floors/Floor_D.prefab
+  uploadId: 91167

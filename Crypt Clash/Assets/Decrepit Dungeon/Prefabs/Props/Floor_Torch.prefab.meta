@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 554b9a14ca27a0b49a7819640ae61c40
+timeCreated: 1446599320
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Props/Floor_Torch.prefab
+  uploadId: 91167

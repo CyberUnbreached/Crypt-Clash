@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ae4cad36724b31f4e92fe6b08a90aa26
+timeCreated: 1444491075
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Walls/Stairs_B_Wall.prefab
+  uploadId: 91167

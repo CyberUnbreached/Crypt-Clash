@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5fa5b8b30a372ec4581e5e2051ff8117
+timeCreated: 1448324990
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Walls/Wall_Round_Corner.prefab
+  uploadId: 91167

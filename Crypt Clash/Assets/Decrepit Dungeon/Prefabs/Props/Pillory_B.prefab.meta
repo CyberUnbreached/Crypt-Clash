@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 106023f9c62311048acbcfebadc6a312
+timeCreated: 1443562432
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Props/Pillory_B.prefab
+  uploadId: 91167

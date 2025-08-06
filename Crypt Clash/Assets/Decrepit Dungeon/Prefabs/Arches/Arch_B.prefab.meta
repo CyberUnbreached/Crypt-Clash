@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ed801d9e01258a469e4ac74492f5e64
+timeCreated: 1441325064
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Arches/Arch_B.prefab
+  uploadId: 91167

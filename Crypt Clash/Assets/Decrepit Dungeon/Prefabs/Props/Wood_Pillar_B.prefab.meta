@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8099b991ef8d1c84e93ec77a9b0fcc13
+timeCreated: 1443562547
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Props/Wood_Pillar_B.prefab
+  uploadId: 91167

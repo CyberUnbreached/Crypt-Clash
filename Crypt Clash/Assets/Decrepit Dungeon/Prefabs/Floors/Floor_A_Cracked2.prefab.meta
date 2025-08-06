@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b22f1f3fb430dc742840ea7217037115
+timeCreated: 1444348298
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Floors/Floor_A_Cracked2.prefab
+  uploadId: 91167

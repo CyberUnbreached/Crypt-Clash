@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21f78b5577ad77a4c8359b23429be338
+timeCreated: 1442022522
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Props/Brick.prefab
+  uploadId: 91167

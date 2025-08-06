@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e478f9f9f5a61446b7a1a7ba534c59a
+timeCreated: 1441469374
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Decals/Blood_F.prefab
+  uploadId: 91167

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf8e30da865e3a74d96fbae16d186c9c
+timeCreated: 1443323003
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Materials/Cement_C_Wet.mat
+  uploadId: 91167

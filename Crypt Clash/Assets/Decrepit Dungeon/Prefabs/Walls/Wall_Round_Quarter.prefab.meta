@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c92c656a71f780c45b5553d7fd1b4c56
+timeCreated: 1446518169
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Walls/Wall_Round_Quarter.prefab
+  uploadId: 91167

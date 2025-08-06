@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac88b06ded1470943ac9b46a6da923eb
+timeCreated: 1443649377
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Props/Torture_Tool_C.prefab
+  uploadId: 91167

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30900aa8eec35f041915db508e899145
+timeCreated: 1445992282
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Balconies/Balcony_C_Broken.prefab
+  uploadId: 91167

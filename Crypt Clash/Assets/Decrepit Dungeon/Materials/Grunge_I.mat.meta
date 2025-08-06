@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39c8d2b2da39d8c48963b47c0a1856d6
+timeCreated: 1441323933
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Materials/Grunge_I.mat
+  uploadId: 91167

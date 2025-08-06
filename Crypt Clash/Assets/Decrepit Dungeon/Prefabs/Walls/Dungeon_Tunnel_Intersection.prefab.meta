@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 534dadf3fd463c941b5fcc92d31debc1
+timeCreated: 1446597546
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Walls/Dungeon_Tunnel_Intersection.prefab
+  uploadId: 91167

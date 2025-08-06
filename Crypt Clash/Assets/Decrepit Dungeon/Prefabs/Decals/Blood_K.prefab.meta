@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19d913979f15c05449671231b38d8a65
+timeCreated: 1441469385
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Decals/Blood_K.prefab
+  uploadId: 91167

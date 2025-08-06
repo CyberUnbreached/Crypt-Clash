@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64337cbb3c6c5ec409f42f1e8014dec6
+timeCreated: 1445992309
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Balconies/Balcony_D.prefab
+  uploadId: 91167

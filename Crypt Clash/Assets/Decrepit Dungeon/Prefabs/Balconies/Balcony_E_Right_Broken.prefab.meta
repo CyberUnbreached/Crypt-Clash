@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 50b68d13ee131554e8479370ed727ebc
+timeCreated: 1445992471
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Balconies/Balcony_E_Right_Broken.prefab
+  uploadId: 91167

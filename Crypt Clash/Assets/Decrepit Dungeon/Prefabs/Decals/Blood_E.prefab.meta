@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a25902d78e3bdd468371ce238d2c90a
+timeCreated: 1441469372
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Decals/Blood_E.prefab
+  uploadId: 91167

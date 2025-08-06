@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 649379ee7f6a6f545a405f129c6abb82
+timeCreated: 1444352684
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Walls/Curved_Walls_Exterior.prefab
+  uploadId: 91167

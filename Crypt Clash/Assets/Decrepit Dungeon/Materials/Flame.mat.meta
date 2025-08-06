@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3aca7f17b83630409550de9dc736e58
+timeCreated: 1425694709
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Materials/Flame.mat
+  uploadId: 91167

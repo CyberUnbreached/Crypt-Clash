@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3edf6d77111343343b4eb1a009932ac7
+timeCreated: 1442451859
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Floors/Floor_B_Puddle.prefab
+  uploadId: 91167

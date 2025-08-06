@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3fbb349ceec791f42a577bbe42521d55
+timeCreated: 1446597622
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Props/Barrel_Lid.prefab
+  uploadId: 91167

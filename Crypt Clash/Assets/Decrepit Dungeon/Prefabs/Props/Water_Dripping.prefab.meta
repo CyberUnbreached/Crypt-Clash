@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 043c02128294c78448bc70c56d9bb9cf
+timeCreated: 1441388231
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Props/Water_Dripping.prefab
+  uploadId: 91167

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22359f74f4585b443a19257fde3e24c3
+timeCreated: 1441135896
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Materials/Bricks.mat
+  uploadId: 91167

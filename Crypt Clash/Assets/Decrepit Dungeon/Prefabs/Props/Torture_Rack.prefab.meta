@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 299e0ec8c13a454419852dbd08406469
+timeCreated: 1443562480
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Props/Torture_Rack.prefab
+  uploadId: 91167

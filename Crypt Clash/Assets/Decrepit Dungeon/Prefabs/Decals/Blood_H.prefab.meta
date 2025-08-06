@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3e4f871107867b44921b6a7443dd96b
+timeCreated: 1441469378
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Decals/Blood_H.prefab
+  uploadId: 91167

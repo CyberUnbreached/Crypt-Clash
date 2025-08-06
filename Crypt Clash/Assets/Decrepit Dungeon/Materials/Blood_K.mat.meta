@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c0ad92b5223efe40a863071a47fef2e
+timeCreated: 1441468203
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Materials/Blood_K.mat
+  uploadId: 91167

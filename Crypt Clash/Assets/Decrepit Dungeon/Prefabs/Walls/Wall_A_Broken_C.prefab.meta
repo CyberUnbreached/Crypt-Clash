@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a188476585dd2324881d8d919f003782
+timeCreated: 1442022754
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Walls/Wall_A_Broken_C.prefab
+  uploadId: 91167

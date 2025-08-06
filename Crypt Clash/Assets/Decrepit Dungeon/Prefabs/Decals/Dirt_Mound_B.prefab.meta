@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b0259fdf3a6e2f4990504d585a8af0a
+timeCreated: 1444093949
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Decals/Dirt_Mound_B.prefab
+  uploadId: 91167

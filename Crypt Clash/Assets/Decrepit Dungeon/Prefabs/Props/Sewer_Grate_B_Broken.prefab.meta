@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 813058c7de362884997f90ea8ad3f0ea
+timeCreated: 1444351286
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47715
+  packageName: Decrepit Dungeon
+  packageVersion: 1.2
+  assetPath: Assets/Decrepit Dungeon/Prefabs/Props/Sewer_Grate_B_Broken.prefab
+  uploadId: 91167
